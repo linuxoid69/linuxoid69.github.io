@@ -1,0 +1,16 @@
+apiVersion: v1
+entries:
+  backup-exporter:
+  - apiVersion: v2
+    appVersion: 0.1.1
+    created: "2023-09-28T21:05:13.478746+03:00"
+    description: A Helm chart for Kubernetes by linuxoid69 - linuxoid69@gmail.com
+    digest: bbbdf1e4027012b7cf91b9c293928cb26a16f8149fec86e19bbc92a7d2fcf121
+    maintainers:
+    - name: Rustam Tagaev
+    name: backup-exporter
+    type: application
+    urls:
+    - https://linuxoid69.github.io/charts/backup-exporter-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-09-28T21:05:13.477664+03:00"
