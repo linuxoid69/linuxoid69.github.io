@@ -1,0 +1,19 @@
+#block_about {
+    text-align: center;
+    text-wrap: left;
+    width: 550px;
+    height: auto;
+    margin: auto;
+    margin-top: 40px;
+}
+
+@media (max-width: 428px) {
+    #block_about {
+        text-align: center;
+        text-wrap: left;
+        width: auto;
+        height: auto;
+        margin: auto;
+        margin-top: 40px;
+    }
+}
