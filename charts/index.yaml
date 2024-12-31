@@ -11,7 +11,7 @@ entries:
     name: backup-exporter
     type: application
     urls:
-    - https://linuxoid69.github.io/charts/backup-exporter-0.1.0.tgz
+    - https://linuxoid69.github.io/helm-charts/backup-exporter-0.1.0.tgz
     version: 0.1.0
   school-bot:
   - apiVersion: v2
@@ -25,6 +25,6 @@ entries:
     name: school-bot
     type: application
     urls:
-    - https://linuxoid69.github.io/charts/school-bot-0.1.0.tgz
+    - https://linuxoid69.github.io/helm-charts/school-bot-0.1.0.tgz
     version: 0.1.0
 generated: "2024-12-31T11:48:43.186401+03:00"
