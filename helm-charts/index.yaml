@@ -3,7 +3,7 @@ entries:
   backup-exporter:
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2025-01-03T15:19:42.620477+03:00"
+    created: "2025-01-03T15:43:42.063704+03:00"
     description: A Helm chart for Kubernetes
     digest: bbbdf1e4027012b7cf91b9c293928cb26a16f8149fec86e19bbc92a7d2fcf121
     maintainers:
@@ -16,9 +16,9 @@ entries:
   minidlna:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2025-01-03T15:19:42.620797+03:00"
+    created: "2025-01-03T15:43:42.064016+03:00"
     description: A Helm chart for Kubernetes minidlna
-    digest: 3e3d68d7cdd541830b7c0f6198b61e2354875d9a28b1e98b27dac009b29ebb25
+    digest: 7c8c3ea1d965bb7944619f4bdab419a9bc12b21c8e761f63a7510d274cb2e9fa
     maintainers:
     - email: linuxoid69@gmail.com
       name: Rustam Tagaev
@@ -30,7 +30,7 @@ entries:
   school-bot:
   - apiVersion: v2
     appVersion: 0.3.3
-    created: "2025-01-03T15:19:42.62125+03:00"
+    created: "2025-01-03T15:43:42.064426+03:00"
     description: A Helm chart for Kubernetes for getting school grades
     digest: 1229dbcf7d4befba6efb2f4944ca4dfd33d1bd0deb8022783225ddfce62066df
     maintainers:
@@ -41,4 +41,4 @@ entries:
     urls:
     - https://linuxoid69.github.io/helm-charts/school-bot-0.1.0.tgz
     version: 0.1.0
-generated: "2025-01-03T15:19:42.619506+03:00"
+generated: "2025-01-03T15:43:42.063122+03:00"
