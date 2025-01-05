@@ -3,7 +3,7 @@ entries:
   backup-exporter:
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2025-01-05T13:18:31.587139+03:00"
+    created: "2025-01-05T16:48:18.361287+03:00"
     description: A Helm chart for Kubernetes
     digest: bbbdf1e4027012b7cf91b9c293928cb26a16f8149fec86e19bbc92a7d2fcf121
     maintainers:
@@ -16,7 +16,7 @@ entries:
   minidlna:
   - apiVersion: v2
     appVersion: 1.3.3
-    created: "2025-01-05T13:18:31.587466+03:00"
+    created: "2025-01-05T16:48:18.361622+03:00"
     description: A Helm chart for Kubernetes minidlna
     digest: 3faf84e42750db2c102af596f375d9ea91f3558b2afaf611a28827f2ccb2f4c1
     maintainers:
@@ -30,7 +30,7 @@ entries:
   school-bot:
   - apiVersion: v2
     appVersion: 0.3.3
-    created: "2025-01-05T13:18:31.587816+03:00"
+    created: "2025-01-05T16:48:18.361974+03:00"
     description: A Helm chart for Kubernetes for getting school grades
     digest: 1229dbcf7d4befba6efb2f4944ca4dfd33d1bd0deb8022783225ddfce62066df
     maintainers:
@@ -44,12 +44,15 @@ entries:
   webdav:
   - apiVersion: v2
     appVersion: 1.26.2-r0
-    created: "2025-01-05T13:18:31.588421+03:00"
+    created: "2025-01-05T16:48:18.362386+03:00"
     description: A Helm chart for Kubernetes WebDav
-    digest: ad1788357bcd1e04f08d2154b343c5705610c513e02fb4bf89676f317f9d4d9a
+    digest: 1d2f3af019e84e44b92d275a59fa5eff413720038408d620bd1cc175989dfed2
+    maintainers:
+    - email: linuxoid69@gmail.com
+      name: Rustam Tagaev
     name: webdav
     type: application
     urls:
     - https://linuxoid69.github.io/helm-charts/webdav-0.1.0.tgz
     version: 0.1.0
-generated: "2025-01-05T13:18:31.586573+03:00"
+generated: "2025-01-05T16:48:18.360637+03:00"
